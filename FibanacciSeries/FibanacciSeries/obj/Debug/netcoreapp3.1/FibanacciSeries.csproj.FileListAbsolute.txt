@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\bin\Debug\netcoreapp3.1\FibanacciSeries.exe
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\bin\Debug\netcoreapp3.1\FibanacciSeries.deps.json
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\bin\Debug\netcoreapp3.1\FibanacciSeries.runtimeconfig.json
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\bin\Debug\netcoreapp3.1\FibanacciSeries.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\bin\Debug\netcoreapp3.1\FibanacciSeries.dll
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\bin\Debug\netcoreapp3.1\FibanacciSeries.pdb
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\obj\Debug\netcoreapp3.1\FibanacciSeries.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\obj\Debug\netcoreapp3.1\FibanacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\obj\Debug\netcoreapp3.1\FibanacciSeries.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\obj\Debug\netcoreapp3.1\FibanacciSeries.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\obj\Debug\netcoreapp3.1\FibanacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\obj\Debug\netcoreapp3.1\FibanacciSeries.dll
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\obj\Debug\netcoreapp3.1\FibanacciSeries.pdb
+C:\Users\Administrator\Desktop\Session6day\FibanacciSeries\FibanacciSeries\obj\Debug\netcoreapp3.1\FibanacciSeries.genruntimeconfig.cache
