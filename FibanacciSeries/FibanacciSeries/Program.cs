@@ -1,26 +1,26 @@
 ﻿using System;
 
-namespace FibanacciSeries
+namespace PrimeNumber
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter the  number : ");
-            int n = Convert.ToInt32(Console.ReadLine());
-            int sum = 0;
-            for (int i = 1; i < n; i++)
+            int flag = 0;
+            Console.Write("Enter the Number to check Prime: ");
+            int n = int.Parse(Console.ReadLine());
+            int m = n / 2;
+            for (int i = 2; i <= m; i++)
             {
                 if (n % i == 0)
                 {
-                    sum = sum + i;
+                    Console.Write("Number is not Prime.");
+                    flag = 1;
+                    break;
                 }
             }
-            Console.WriteLine("The sum of the divisor is :" + sum);
-            if (sum == n)
-                Console.WriteLine("So " + n + " number is perfect.");
-            else
-                Console.WriteLine("So " + n + " number is not perfect.");
+            if (flag == 0)
+                Console.Write("Number is Prime.");
 
         }
     }
