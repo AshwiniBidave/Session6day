@@ -1,26 +1,22 @@
 ﻿using System;
 
-namespace PrimeNumber
+namespace ReverseNumber
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int flag = 0;
-            Console.Write("Enter the Number to check Prime: ");
-            int n = int.Parse(Console.ReadLine());
-            int m = n / 2;
-            for (int i = 2; i <= m; i++)
+            
+            int n, reverse = 0, rem;
+            Console.Write("Enter a number: ");
+            n = int.Parse(Console.ReadLine());
+            while (n != 0)
             {
-                if (n % i == 0)
-                {
-                    Console.Write("Number is not Prime.");
-                    flag = 1;
-                    break;
-                }
+                rem = n % 10;
+                reverse = reverse * 10 + rem;
+                n /= 10;
             }
-            if (flag == 0)
-                Console.Write("Number is Prime.");
+            Console.Write("Reversed Number: " + reverse);
 
         }
     }
